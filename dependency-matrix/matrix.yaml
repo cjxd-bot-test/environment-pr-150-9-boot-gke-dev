@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/cb-kubecd/bdd-nh-1579480854.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cb-kubecd
+  repo: bdd-sbrp-import-1579482917
+  url: https://github.com/cb-kubecd/bdd-sbrp-import-1579482917.git
+  version: ""
+  versionURL: ""
